@@ -1,44 +1,106 @@
-### Habilidades Técnicas
+# 👩🏻‍💻 Gustavo Cabral
 
-#### Linguagens de Programação
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**`Cientista de Dados`**
 
+Me chamo Gustavo Cabral Gonçalves, tenho 21 anos e sou natural de Belo Horisonte. Concluí o ensino médio no Colégio Santo Agostinho. Atualmente, estou cursando Ciência de Dados na UFMG. Sou apaixonado por tecnologia e estatística.
 
-#### Bibliotecas e Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3182BD?style=for-the-badge&logo=seaborn&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-02569B?style=for-the-badge&logo=python&logoColor=white)
-
-
-#### Ferramentas e Tecnologias
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-
----
-
-### 📈 Estatísticas do GitHub
 <p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renatovalis&show_icons=true&include_all_commits=false&count_private=true&theme=radical&custom_title=Atividade%20no%20Github"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatovalis&layout=compact&theme=radical&custom_title=Linguagem%20mais%20Usada"/>
+    </a> 
+    <a href="https://github.com/Guskb13?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Guskb13?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Guskb13?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Guskb13?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
 
-### Como me encontrar
-<p align="left">
-  <a href="mailto:guscabralg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="[https://www.linkedin.com/in/gustavo](https://www.linkedin.com/in/gustavo-cabral-gon%C3%A7alves-873a11267/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Jupyter" 
+    title="Jupyter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"  
+/>
+<img 
+    align="left" 
+    alt="NumPy" 
+    title="NumPy"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+/>
 
----
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Guskb13&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guskb13&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
